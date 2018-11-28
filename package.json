@@ -4,7 +4,7 @@
   "description": "Testing javascript travis",
   "main": "./javascriptFile",
   "scripts": {
-    "test": "vows test/*.js"
+    "test": "npm test/*.js"
   },
   "repository": {
     "type": "git",
