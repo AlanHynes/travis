@@ -2,9 +2,9 @@
   "name": "travis",
   "version": "1.0.0",
   "description": "Testing javascript travis",
-  "main": "javascriptFile.js",
+  "main": "./javascriptFile",
   "scripts": {
-    "test": "javascriptFile.js"
+    "test": "vows test/*.js"
   },
   "repository": {
     "type": "git",
