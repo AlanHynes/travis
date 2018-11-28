@@ -1,0 +1,24 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "Testing javascript travis",
+  "main": "javascriptFile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHynes/travis.git"
+  },
+  "keywords": [
+    "testing",
+    "javascript",
+    "Travis"
+  ],
+  "author": "Alan Hynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanHynes/travis/issues"
+  },
+  "homepage": "https://github.com/AlanHynes/travis#readme"
+}
