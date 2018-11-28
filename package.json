@@ -4,7 +4,7 @@
   "description": "Testing javascript travis",
   "main": "javascriptFile.js",
   "scripts": {
-    "test": "test"
+    "test": "set CI=true &&react-scripts test --env=jsdom"
   },
   "repository": {
     "type": "git",
